@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="108mm"
+   height="154.99999999999997mm"
+   viewBox="179 140.99999999999997 108 154.99999999999997"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="vibration-box-backpanel.svg"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.40284946"
+     inkscape:cx="204.79114"
+     inkscape:cy="292.91339"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">svgOutput</title>
+  <desc
+     id="desc4">made with tinkercad</desc>
+  <path
+     d="M 286 294.99999999999994 L 229.4980010986328 294.99999999999994 L 180 294.99999999999994 L 180 141.99999999999997 L 229.4980010986328 141.99999999999997 L 236.5030059814453 141.99999999999997 L 286 141.99999999999997 L 286 165.00300598144528 L 286 294.99999999999994 M 231.91799926757812 164.83099365234372 L 233 165.00300598144528 L 234.08200073242188 164.83099365234372 L 235.0590057373047 164.33399963378903 L 235.55299377441406 163.8399963378906 L 235.83399963378906 163.55900573730466 L 236.33099365234375 162.58200073242185 L 236.5030059814453 161.49999999999997 L 236.33099365234375 160.4179992675781 L 235.83399963378906 159.44099426269528 L 235.0590057373047 158.6660003662109 L 234.08200073242188 158.16900634765622 L 233 157.99800109863278 L 231.91799926757812 158.16900634765622 L 230.9409942626953 158.6660003662109 L 230.16600036621094 159.44099426269528 L 229.66900634765625 160.4179992675781 L 229.4980010986328 161.49999999999997 L 229.66900634765625 162.58200073242185 L 230.16600036621094 163.55900573730466 L 230.44700622558594 163.8399963378906 L 230.9409942626953 164.33399963378903 L 231.91799926757812 164.83099365234372 z"
+     fill="none"
+     stroke="rgb(255,0,0)"
+     stroke-width="0.001mm"
+     id="path6"
+     style="fill:#00ffff" />
+</svg>
